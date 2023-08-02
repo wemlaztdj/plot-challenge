@@ -20,8 +20,9 @@ The distribution of female versus male mice. This balanced distribution reduces 
 ![image](https://github.com/wemlaztdj/plot-challenge/assets/19890554/2e97dde7-7a77-47a6-a2f6-a22d13943b05)
 
 ### Average Final Tumor Volume
-Capomulin and Ramicane have a smaller final tumor volume than Infubinol and Ceftamin.
 The picture is the distribution of the tumor volume for each treatment group.
+
+Capomulin and Ramicane have a smaller final tumor volume than Infubinol and Ceftamin.
 
 ![image](https://github.com/wemlaztdj/plot-challenge/assets/19890554/7d7826fe-5f9e-418e-a819-8bf1f35de8b6)
 
