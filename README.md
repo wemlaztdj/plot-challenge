@@ -15,7 +15,7 @@ Study_results.csv has Mouse ID,	Timepoint,	Tumor Volume (mm3),	and Metastatic Si
 ![image](https://github.com/wemlaztdj/plot-challenge/assets/19890554/fa53776d-88d7-40d6-bb33-c6fe47718ddc)
 
 ### Sex Distribution
-The distribution of female versus male mice. This balanced distribution reduces the risk of bias.
+This is the distribution of female versus male mice. This balanced distribution reduces the risk of bias.
 
 ![image](https://github.com/wemlaztdj/plot-challenge/assets/19890554/2e97dde7-7a77-47a6-a2f6-a22d13943b05)
 
